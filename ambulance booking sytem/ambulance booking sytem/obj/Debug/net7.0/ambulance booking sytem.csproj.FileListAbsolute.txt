@@ -1,0 +1,17 @@
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/bin/Debug/net7.0/ambulance booking sytem
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/bin/Debug/net7.0/ambulance booking sytem.deps.json
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/bin/Debug/net7.0/ambulance booking sytem.runtimeconfig.json
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/bin/Debug/net7.0/ambulance booking sytem.dll
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/bin/Debug/net7.0/ambulance booking sytem.pdb
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/bin/Debug/net7.0/MySqlConnector.dll
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.csproj.AssemblyReference.cache
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.AssemblyInfoInputs.cache
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.AssemblyInfo.cs
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.csproj.CoreCompileInputs.cache
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.csproj.CopyComplete
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.dll
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/refint/ambulance booking sytem.dll
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.pdb
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ambulance booking sytem.genruntimeconfig.cache
+/Users/jaydipnemade/Projects/ambulance booking sytem/ambulance booking sytem/obj/Debug/net7.0/ref/ambulance booking sytem.dll
